@@ -7,12 +7,13 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "4.2.2",
     "channels": "0.0.4",
+    "jqeury": "^0.0.1-security",
+    "jquery": "^3.5.1",
     "materialize-css": "^1.0.0",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
   "devDependencies": {
-    "jquery": "^3.5.1",
     "materialize": "^1.0.0",
     "webpack": "^4.43.0",
     "webpack-dev-server": "^3.11.0"
